@@ -20,15 +20,15 @@ const me = {
   name: 'Dre Sean Sutton',
   music: {
     classical: {
-      rank: 1,
       instruments: ['Piano', 'Violin', 'Guitar', 'Cello'],
+      rank: 1,
       subGenre: [
         'Beethoven', 'Rachmaninoff', 'Mozart', 'Bach', 'Chopin'
       ]
     },
     edm: {
-      rank: 2,
       instruments: null,
+      rank: 2,
       subGenre: [
         'Dubstep', 'Melodic Dubstep', 'Hardcore TANO*C'
       ]
