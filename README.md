@@ -84,9 +84,9 @@ const me = {
 
 ## Currently Working on 
 
-🧩Projects: Daily adding a Fighter to [the-ultimate-api](https://github.com/DreSean-Sutton/the-ultimate-api) database and stretch features
+🧩Projects: Frequently adding a Fighter to [the-ultimate-api](https://github.com/DreSean-Sutton/the-ultimate-api) database and refactoring [Smashmate](https://github.com/DreSean-Sutton/smashmate) into React
 
-📖Learning/Practicing: React, React Hooks, algorithms
+📖Learning/Practicing: React, React Hooks, React Bootstrap, and algorithms
 
 ## Let's Connect!
 
