@@ -86,7 +86,7 @@ const me = {
 
 🧩Projects: Frequently adding a Fighter to [the-ultimate-api](https://github.com/DreSean-Sutton/the-ultimate-api) database
 
-📖Learning/Practicing: Typescript, Redux, and algorithms
+📖Learning/Practicing: Typescript, TDD, Redux, and algorithms
 
 ## Let's Connect!
 
