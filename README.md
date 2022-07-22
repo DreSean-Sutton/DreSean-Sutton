@@ -84,9 +84,12 @@ const me = {
 
 ## Currently Working on 
 
-🧩Projects: Frequently adding a Fighter to [the-ultimate-api](https://github.com/DreSean-Sutton/the-ultimate-api) database
+🧩Projects:
+- Frequently adding a Fighter to [the-ultimate-api](https://github.com/DreSean-Sutton/the-ultimate-api) database
+- Constant updates to [Smashmate](https://github.com/DreSean-Sutton/smashmate)
+- Building a full-stack helper app for a game called Ghost Exile
 
-📖Learning/Practicing: Jest, react-test-renderer, Redux, and algorithms
+📖Learning/Practicing: Jest, Redux, Next.js and Algorithms
 
 ## Let's Connect!
 
