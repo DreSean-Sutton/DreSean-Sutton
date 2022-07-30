@@ -89,7 +89,7 @@ const me = {
 - Constant updates to [Smashmate](https://github.com/DreSean-Sutton/smashmate)
 - Building a full-stack helper app for a game called Ghost Exile
 
-📖Learning/Practicing: Jest, Redux, Next.js and Algorithms
+📖Learning/Practicing: Ruby, Jest, Redux, Next.js and Algorithms
 
 ## Let's Connect!
 
